@@ -11,5 +11,5 @@ pushen.
 
 ### Apèro-Termin
 Am 6.07.2023 findet in der 2. Lektion der Apéro.
-ME22b organisiert den Apero.
+ME22a organisiert den Apero.
 
