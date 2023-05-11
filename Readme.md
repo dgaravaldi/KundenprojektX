@@ -8,3 +8,8 @@ Anschliessend folgende Punkte befolgen:
 ### Wichtigste Regel:
 Immer abends um 17.00 Uhr aktueller Änderungen (ohne Fehler)
 pushen.
+
+### Apèro-Termin
+Am 6.07.2023 findet in der 2. Lektion der Apéro.
+ME22b organisiert den Apero.
+
